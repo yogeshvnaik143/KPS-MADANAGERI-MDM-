@@ -1,0 +1,6 @@
+{
+  "name": "KPS Madanageri - Mid Day Meal Management",
+  "description": "Daily Mid Day Meal and nutrition tracking system for Karnataka Public School, Madanageri with Excel database sync, section totals, egg and banana reconciliation, and A4 print reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
